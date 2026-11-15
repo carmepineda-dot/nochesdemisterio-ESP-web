@@ -16,6 +16,13 @@
 
 - [Inicio](https://nochesdemisterio.com/): presentación del juego
 - [Preguntas frecuentes](https://nochesdemisterio.com/preguntas/): edades, currículum, adaptación, errores, precio, datos, instalación
+- [Guías para familias](https://nochesdemisterio.com/guias/): tablas de multiplicar, reloj, fracciones, cálculo mental, refuerzo de mates, ayudar en casa
+  - [Tablas de multiplicar](https://nochesdemisterio.com/guias/tablas-de-multiplicar/): trucos para aprenderlas entendiéndolas
+  - [El reloj](https://nochesdemisterio.com/guias/aprender-el-reloj/): de las horas en punto a los cuartos y los minutos
+  - [Las fracciones](https://nochesdemisterio.com/guias/fracciones-primaria/): cómo explicarlas de 3º a 6º
+  - [Cálculo mental](https://nochesdemisterio.com/guias/calculo-mental/): estrategias por curso y juegos para hacer en casa
+  - [Refuerzo de mates](https://nochesdemisterio.com/guias/refuerzo-mates-primaria/): cómo saber si hace falta y qué funciona
+  - [Ayudar con las mates en casa](https://nochesdemisterio.com/guias/ayudar-con-las-mates-en-casa/): consejos para acompañar sin discusiones
 - [Política de privacidad](https://nochesdemisterio.com/privacidad/)
 
 Contacto: nitsdemisteri.joc@gmail.com
