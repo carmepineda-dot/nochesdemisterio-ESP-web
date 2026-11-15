@@ -1,7 +1,7 @@
 // Analítica (Google Analytics 4) solo con consentimiento previo.
 // Sin respuesta o con "Rechazar", no se carga nada de Google ni se pone ninguna cookie.
 (() => {
-  const GA_ID = 'G-XXXXXXXXXX'; // TODO: crear segundo flujo de datos en GA4 → poner aquí el ID
+  const GA_ID = 'G-NRDSFFLH9T';
   const KEY = 'ndm-cookies'; // 'si' | 'no'
   const ready = /^G-[A-Z0-9]{6,}$/.test(GA_ID) && GA_ID !== 'G-XXXXXXXXXX';
 
