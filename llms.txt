@@ -1,0 +1,21 @@
+# Noches de Misterio
+
+> Juego de aventuras para aprender matemáticas de 1º a 6º de primaria: cada noche un enigma, de día tu poblado; se adapta al nivel de cada niño y le explica cada error. Para niños y niñas de primaria (de 1º a 6º, de 6 a 12 años), para tableta y móvil Android. Sigue el currículum de matemáticas de primaria de España (RD 157/2022). Sin anuncios.
+
+- Objetivo del juego: cada noche se esconde un enigma; si lo resuelves, ganas una pieza para construir tu refugio y, después, tu poblado. Cuantas más aventuras acabes, más grande será. Cada aventura dura 12 noches.
+- Se adapta al nivel de cada niño por habilidades (reloj, cálculo, fracciones, geometría…).
+- Cuando se equivoca, detecta qué error ha cometido y le explica cómo se hace; si el error se repite, un búho le enseña un truco con dibujos.
+- Panel para adultos con PIN: progreso por habilidades, errores trabajados, límite de tiempo diario, hasta 6 hermanos.
+- Privacidad: no hay cuentas ni analítica dentro del juego; los datos se guardan en el dispositivo.
+- Sin cuentas ni correo electrónico; sin límites impuestos (el límite de tiempo lo deciden los padres).
+- Modelo: descarga gratuita con la primera aventura completa; suscripción familiar opcional con 14 días de prueba.
+- Estado (noviembre 2026): en pruebas con familias; se publicará en Google Play.
+- También disponible en catalán como Nits de Misteri: https://nitsdemisteri.cat/
+
+## Páginas
+
+- [Inicio](https://nochesdemisterio.com/): presentación del juego
+- [Preguntas frecuentes](https://nochesdemisterio.com/preguntas/): edades, currículum, adaptación, errores, precio, datos, instalación
+- [Política de privacidad](https://nochesdemisterio.com/privacidad/)
+
+Contacto: nitsdemisteri.joc@gmail.com
