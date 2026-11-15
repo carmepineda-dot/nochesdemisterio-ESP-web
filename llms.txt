@@ -16,6 +16,7 @@
 
 - [Inicio](https://nochesdemisterio.com/): presentación del juego
 - [Preguntas frecuentes](https://nochesdemisterio.com/preguntas/): edades, currículum, adaptación, errores, precio, datos, instalación
+- [Los retos](https://nochesdemisterio.com/retos/): los 12 tipos de reto, con objetivo y para qué sirven
 - [Guías para familias](https://nochesdemisterio.com/guias/): tablas de multiplicar, reloj, fracciones, cálculo mental, refuerzo de mates, ayudar en casa
   - [Tablas de multiplicar](https://nochesdemisterio.com/guias/tablas-de-multiplicar/): trucos para aprenderlas entendiéndolas
   - [El reloj](https://nochesdemisterio.com/guias/aprender-el-reloj/): de las horas en punto a los cuartos y los minutos
